@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "62752abd0da1739cbc338703"
+  },
+  "name": "Item1",
+  "price": 100,
+  "quantity": 100,
+  "quality": 1,
+  "Vendor": "Vendor1",
+  "Category": "Category1"
+},{
+  "_id": {
+    "$oid": "62752d5f0da1739cbc338705"
+  },
+  "name": "Item2",
+  "price": 200,
+  "quantity": 200,
+  "quality": 2,
+  "Vendor": "Vendor2",
+  "Category": "Category2"
+},{
+  "_id": {
+    "$oid": "62752dd60da1739cbc338707"
+  },
+  "name": "Item3",
+  "price": 300,
+  "quantity": 300,
+  "quality": 3,
+  "Vendor": "Vendor3",
+  "Category": "Category3"
+},{
+  "_id": {
+    "$oid": "62752e0e0da1739cbc338709"
+  },
+  "name": "Item4",
+  "price": 400,
+  "quantity": 0,
+  "quality": 4,
+  "Vendor": "Vendor1",
+  "Category": "Category1"
+},{
+  "_id": {
+    "$oid": "62752e720da1739cbc33870a"
+  },
+  "name": "Item5",
+  "price": 500,
+  "quantity": 0,
+  "quality": 5,
+  "Vendor": "Vendor2",
+  "Category": "Category2"
+},{
+  "_id": {
+    "$oid": "62b6925e8e546f7ce13075e6"
+  },
+  "name": "Item6",
+  "price": 600,
+  "quantity": 600,
+  "quality": 1,
+  "Vendor": "Vendor1",
+  "Category": "Category1"
+}]
